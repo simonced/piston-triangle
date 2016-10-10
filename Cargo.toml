@@ -1,0 +1,8 @@
+[package]
+name = "piston-triangle"
+version = "0.1.0"
+authors = ["cedric simon <simonced@gmail.com>"]
+
+[dependencies]
+piston_window = "*"
+rand = "*"
